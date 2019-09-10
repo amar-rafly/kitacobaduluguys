@@ -1,0 +1,37 @@
+Easy WP SMTP debug log file
+
+CLIENT -> SERVER: EHLO wp.amar2414.id
+CLIENT -> SERVER: STARTTLS
+CLIENT -> SERVER: EHLO wp.amar2414.id
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: YWRtaW5AYW1hcjI0MTQuaWQ=
+CLIENT -> SERVER: Q2hhcGxpbjEyMyo=
+CLIENT -> SERVER: MAIL FROM:<admin@amar2414.id>
+CLIENT -> SERVER: RCPT TO:<amar.rafly@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 5 Sep 2019 08:09:45 +0000
+CLIENT -> SERVER: To: amar.rafly@gmail.com
+CLIENT -> SERVER: From: WordPress <admin@amar2414.id>
+CLIENT -> SERVER: Subject: [Welcome to my Wordpress] Your site has updated to WordPress 5.0.6
+CLIENT -> SERVER: Message-ID: <b0ce130d643636b96f1aa9d49fff967c@wp.amar2414.id>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Howdy! Your site at https://wp.amar2414.id has been updated automatically to WordPress 5.0.6.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: For more on version 5.0.6, see the About WordPress screen:
+CLIENT -> SERVER: https://wp.amar2414.id/wp-admin/about.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: WordPress 5.2.3 is also now available. Updating is easy and only takes a few moments:
+CLIENT -> SERVER: https://wp.amar2414.id/wp-admin/update-core.php
+CLIENT -> SERVER: 
+CLIENT -> SERVER: If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+CLIENT -> SERVER: https://wordpress.org/support/
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Keeping your site updated is important for security. It also makes the internet a safer place for you and your readers.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: The WordPress Team
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
